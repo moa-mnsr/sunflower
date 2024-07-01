@@ -1,0 +1,15 @@
+@import url(assets/reset.css);
+
+body {
+    background-color: lightgrey;
+    display: flex;
+    justify-content: center;
+   
+}
+
+div.container {
+    display: grid;
+}
+embed {
+    width: 30vw;
+}

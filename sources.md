@@ -59,13 +59,33 @@ In our youth our hearts were touched with fire.
 
 MAGGIE NELSON, *The Art of Cruelty*
 
-I don’t see the airlessness as the mark of any reprehensible shortcoming […] but more likely that she died too young to explore the voluptuousness or complexity of her cruelty, much less to ventilate it.
+I don’t see 
+the airlessness 
+as the mark of 
+any reprehensible 
+shortcoming 
+
+[…] 
+
+but more likely 
+that she died too 
+young to explore 
+the voluptuousness 
+
+or complexity of her 
+cruelty, much less to 
+ventilate it.
 
 /
 
 
+The Neutral […] allows 
+for a practice of gentle 
+aversion: the right to reject 
 
-The Neutral […] allows for a practice of gentle aversion: the right to reject the offered choices, to demur, to turn away, to turn one’s attention to rarer and better things.
+the offered choices, to demur, 
+to turn away, to turn one’s attention 
+to rarer and better things.
 
 /
 
@@ -73,15 +93,39 @@ for recoginizing and articulating pleasure
 
 /
 
-baffle the oppressive forces of reduction, generality, and dogmatism, they deserve to be called sweetness
+baffle the oppressive 
+forces of reduction, 
+generality, and dogmatism, 
+they deserve to be called 
+sweetness
 
 /
 
-…the intense dance between vulnerability and ruthlessness that begins when we are infants and persists, in its way, for the rest of our lives — our grappling with desires so fierce one fears that they might overwhelm or obliterate others, others that we may desperately not want to lose — indeed, that we cannot afford to lose.
+…the intense dance 
+between vulnerability 
+and ruthlessness that 
+begins when we are 
+
+infants and persists, 
+in its way, for the 
+rest of our lives — 
+
+our grappling with desires 
+so fierce one fears that 
+they might overwhelm or 
+obliterate others, others
+
+that we may desperately not 
+want to lose — indeed, that 
+we cannot afford to lose.
 
 / 
 
-… given the ruthlessness of our desires, the fraught apprehension of our dependencz, the heavy, chaotic experience of jealousy, and the radical undone-ness that can attend both loss and communion.
+… given the ruthlessness of our desires, 
+the fraught apprehension of our dependency, 
+the heavy, chaotic experience of jealousy, 
+and the radical undone-ness that can attend 
+both loss and communion.
 
 /
 
