@@ -138,7 +138,17 @@ with walls too close, so knowable.
 
 
 
+//
 
+WIKIPEDIA, *Common Sunflower*
+
+Young sunflowers orient themselves in the direction of the sun. 
+At dawn the head of the flower faces east and moves west throughout the day. 
+When sunflowers reach full maturity they no longer follow the sun, and continuously face east. 
+
+Young flowers reorient overnight to face east in anticipation of the morning. Their heliotropic motion is a circadian rhythm, synchronized by the sun, which continues if the sun disappears on cloudy days or if plants are moved to constant light. 
+
+They are able to regulate their circadian rhythm in response to the blue-light emitted by a light source.[9] If a sunflower plant in the bud stage is rotated 180°, the bud will be turning away from the sun for a few days, as resynchronization with the sun takes time.[10]
 
 
 
