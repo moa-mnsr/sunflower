@@ -10,6 +10,22 @@ body {
 div.container {
     display: grid;
 }
+
+/*
+div.number {
+    display: flex;
+    justify-content: center;
+}
+    */
+
+p.citat {
+    font-style: italic;
+}
+
+span {
+    font-style: normal;
+}
+
 embed {
     width: 30vw;
 }

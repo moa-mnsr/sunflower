@@ -15,7 +15,7 @@ we wished a thickened glove to treat our splinting frame with noise
 
 3.
 
-where do we greet our lesser heart in the whole who loved too hungry
+where do we greet the lesser heart of our one who loved too hungry
 
 *the partial, the shifting, the mutable — all that the absolute excludes.*
 
@@ -28,7 +28,7 @@ the years yearn as badly as we do
 
 5.
 
-patience not a game of lacquered feeling
+patience not a game of lacquered need
 
 *Detailed, urgent; once in a while, selfless.*
 
