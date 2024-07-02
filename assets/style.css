@@ -1,22 +1,35 @@
 @import url(assets/reset.css);
-
+  
 body {
     background-color: lightgrey;
     display: flex;
     justify-content: center;
-   
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: .03em;
+    line-height: 1.4;
 }
 
 div.container {
     display: grid;
+    grid: auto-flow / 1fr 1fr 1fr;
 }
 
-/*
-div.number {
-    display: flex;
-    justify-content: center;
+div.text {
+    border-left: solid 1px black;
+    margin: 2em;
+    padding: 2em;
 }
-    */
+
+div.number, div.star {
+    display: flex;
+    justify-content: flex-start;
+    font-size: small;
+}
+  
+div.number {
+    font-weight: 600;
+    
+}
 
 p.citat {
     font-style: italic;
@@ -27,5 +40,12 @@ span {
 }
 
 embed {
-    width: 30vw;
+    width: 25vw;
+    padding: 1em;
+}
+
+@media only screen and (max-width: 800px) {
+    div.container {
+        grid: auto-flow / 1fr 1fr;
+    }
 }

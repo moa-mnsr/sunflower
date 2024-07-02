@@ -15,9 +15,9 @@ we wished a thickened glove to treat our splinting frame with noise
 
 3.
 
-where do we greet the lesser heart of our one who loved too hungry
+where do we greet the lesser heart of I who loved too hungry
 
-*the partial, the shifting, the mutable — all that the absolute excludes.*
+*the shifting, the mutable — all that the absolute excludes.*
 
 4.
 
