@@ -7,11 +7,14 @@ body {
     font-family: 'Times New Roman', Times, serif;
     letter-spacing: .03em;
     line-height: 1.4;
+    position: relative;
 }
 
 div.container {
     display: grid;
     grid: auto-flow / 1fr 1fr 1fr;
+    margin-left: 1em;
+    margin-bottom: 10em;
 }
 
 div.text {
@@ -42,6 +45,19 @@ span {
 embed {
     width: 25vw;
     padding: 1em;
+}
+
+aside {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    border: solid 1px black;
+    padding: 0 5px;
+    text-align: center;
+}
+
+aside:hover {
+    background-color: white;
 }
 
 @media only screen and (max-width: 800px) {
