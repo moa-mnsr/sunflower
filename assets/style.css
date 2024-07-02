@@ -48,17 +48,25 @@ embed {
 }
 
 aside {
+    color: blue;
     position: absolute;
-    bottom: 0px;
-    right: 0px;
-    border: solid 1px black;
-    padding: 0 5px;
+    bottom: 1px;
+    right: 1px;
+   /* border: solid 1px blue;
+    padding: 0 5px;*/
     text-align: center;
 }
 
 aside:hover {
-    background-color: white;
+       border-bottom: solid 1px blue;
+
 }
+
+aside::link { color: #0000EE; }
+
+aside:visited { color: #551A8B; }
+
+aside:link:active, :visited:active { color: #FF0000; }
 
 @media only screen and (max-width: 800px) {
     div.container {
